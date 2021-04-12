@@ -1,6 +1,6 @@
 {
   "name": "puppetter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is mock repository to prevent accidental installment of the original puppeteer",
   "main": "index.js",
   "scripts": {
