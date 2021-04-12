@@ -1,0 +1,20 @@
+{
+  "name": "puppetter",
+  "version": "1.0.0",
+  "description": "This is mock repository to prevent accidental installment of the original puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drag13/puppetter.git"
+  },
+  "author": "drag13",
+  "license": "GNU GPL V3",
+  "bugs": {
+    "url": "https://github.com/Drag13/puppetter/issues"
+  },
+  "homepage": "https://github.com/Drag13/puppetter#readme"
+}
